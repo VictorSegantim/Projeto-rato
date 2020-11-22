@@ -5,7 +5,7 @@ Trabalho de Técnicas de Programação feita na Universidade Anhembi Morumbi.
 
 Participantes do grupo:
 
-Victor de Almeida Segantim - RA: 21416468.
-Leonardo Galvão Alves Muniz - RA: 21394473.
-Victor Henrique Barreto da Rocha Restrepo - RA: 21470198.
-Henrique Felix Castro RA: 21437683.
+Victor de Almeida Segantim - RA: 21416468 /
+Leonardo Galvão Alves Muniz - RA: 21394473 /
+Victor Henrique Barreto da Rocha Restrepo - RA: 21470198 /
+Henrique Felix Castro RA: 21437683
